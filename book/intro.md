@@ -8,6 +8,7 @@ This book can be used as a template for other books. It includes a starter packa
 ---
 width: 50%
 name: fig_mijneerstefiguur
+align: left
 ---
 add bestand in de folder
 ```
