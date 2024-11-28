@@ -6,7 +6,7 @@ What a bullshit
 This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
 ``` {figure} figures/PXL_20241126_151257750.JPG
 ---
-width: 50%
+width: 60%
 name: fig_mijneerstefiguur
 align: left
 ---
